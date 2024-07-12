@@ -23,3 +23,5 @@ This project is a frontend assignment for the role of Front End Development Inte
 ```bash
 git clone https://github.com/your-username/employee-dashboard.git
 cd employee-dashboard
+npm start
+
