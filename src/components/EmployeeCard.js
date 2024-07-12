@@ -1,6 +1,5 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-// import './EmployeeCard.css';
 
 const EmployeeCard = ({ employee, onDelete }) => {
   return (
